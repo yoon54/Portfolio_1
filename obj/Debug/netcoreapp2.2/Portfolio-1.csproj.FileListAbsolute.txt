@@ -1,0 +1,14 @@
+C:\Users\henry\desktop\coding\c#\Portfolio-1\bin\Debug\netcoreapp2.2\Portfolio-1.deps.json
+C:\Users\henry\desktop\coding\c#\Portfolio-1\bin\Debug\netcoreapp2.2\Portfolio-1.runtimeconfig.json
+C:\Users\henry\desktop\coding\c#\Portfolio-1\bin\Debug\netcoreapp2.2\Portfolio-1.runtimeconfig.dev.json
+C:\Users\henry\desktop\coding\c#\Portfolio-1\bin\Debug\netcoreapp2.2\Portfolio-1.dll
+C:\Users\henry\desktop\coding\c#\Portfolio-1\bin\Debug\netcoreapp2.2\Portfolio-1.pdb
+C:\Users\henry\desktop\coding\c#\Portfolio-1\obj\Debug\netcoreapp2.2\Portfolio-1.csprojAssemblyReference.cache
+C:\Users\henry\desktop\coding\c#\Portfolio-1\obj\Debug\netcoreapp2.2\Portfolio-1.csproj.CoreCompileInputs.cache
+C:\Users\henry\desktop\coding\c#\Portfolio-1\obj\Debug\netcoreapp2.2\Portfolio-1.RazorAssemblyInfo.cache
+C:\Users\henry\desktop\coding\c#\Portfolio-1\obj\Debug\netcoreapp2.2\Portfolio-1.RazorAssemblyInfo.cs
+C:\Users\henry\desktop\coding\c#\Portfolio-1\obj\Debug\netcoreapp2.2\Portfolio-1.AssemblyInfoInputs.cache
+C:\Users\henry\desktop\coding\c#\Portfolio-1\obj\Debug\netcoreapp2.2\Portfolio-1.AssemblyInfo.cs
+C:\Users\henry\desktop\coding\c#\Portfolio-1\obj\Debug\netcoreapp2.2\Portfolio-1.RazorTargetAssemblyInfo.cache
+C:\Users\henry\desktop\coding\c#\Portfolio-1\obj\Debug\netcoreapp2.2\Portfolio-1.dll
+C:\Users\henry\desktop\coding\c#\Portfolio-1\obj\Debug\netcoreapp2.2\Portfolio-1.pdb
